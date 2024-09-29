@@ -1,3 +1,4 @@
+Vprofile-project
 Prerequisite VPROFILE PROJECT SETUP
 
 Oracle VM Virtualbox
@@ -31,21 +32,3 @@ Memcache (DB Caching SVC)
 RabbitMQ (Broker/Queue SVC)
 Tomcat (Application SVC)
 Nginx (Web SVC)
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 2 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2
